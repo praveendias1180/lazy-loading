@@ -33,3 +33,5 @@ As of July 2020, Chrome has made significant improvements to align the image laz
 On fast connections (e.g 4G), we reduced Chrome's distance-from-viewport thresholds from 3000px to 1250px and on slower connections (e.g 3G), changed the threshold from 4000px to 2500px. This change achieves two things:
 
 [Read More](https://web.dev/browser-level-image-lazy-loading/)
+
+![Threshold Levels](new-threshold.png)
