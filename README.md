@@ -19,4 +19,11 @@ https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 [Live Demo](https://praveendias1180.github.io/lazy-loading/intersectionobserver.html)
 
+# Loading Lazy
+
+```
+<img src="example.jpg" loading="lazy" alt="..." />
+```
+[Live Demo](https://praveendias1180.github.io/lazy-loading/index-loading-lazy.html)
+
 
