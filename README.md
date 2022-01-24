@@ -14,4 +14,6 @@ The Intersection Observer API provides a way to asynchronously observe changes i
 
 https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
+![Intersection Observer](intersection-api.gif)
+
 
